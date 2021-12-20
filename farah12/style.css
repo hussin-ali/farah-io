@@ -1,0 +1,99 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
+
+
+*{
+margin: 0px;
+}
+ nav_b{
+
+height: 100px;
+
+ }
+ img{
+
+   width: 100%;
+ }
+
+ .h11{
+
+    text-align: center;
+    font-family: 'Rakkas', cursive;
+    color: rgb(87, 25, 233);
+ 
+ }
+
+ .left_b{
+padding: 10px;
+width: 25%;
+height: auto;
+background-color: gold;
+margin-right: 30px;
+border: 2px solid  rgb(0, 0, 0);
+float: right;
+margin-bottom: 40px;
+margin-top: 10px;
+
+ }
+ .p1{
+     text-align: right;
+     font-size: large;
+ }
+
+ ul{
+     text-align: right;
+ }
+ .arabicl{
+   text-align: right;
+ }
+ .div2{
+width: 25%;
+height:630px;
+background-color: gold;
+float:right ;
+margin-right: 100px;
+margin-top: 10px;
+border: 2px solid  rgb(0, 0, 0);
+
+ }
+ div a{
+   width: 500px;
+   height: 200px;
+   background-color: rgb(223, 100, 0);
+   text-decoration: none;
+   font-size: 25px;
+   
+   margin: 100px;
+ }
+
+ #p1{
+   margin: 10px;
+   text-align: center;
+   
+ }
+
+ #p2{
+  margin: 10px;
+  text-align: center;
+}
+#p3{
+  margin: 10px;
+  text-align: center;
+}
+#p4{
+  margin: 10px;
+  text-align: center;
+}
+
+div a:hover{
+
+  background-color: rgb(236, 13, 180);
+}
+#img1{
+  width: 25%;
+  height: 630px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
